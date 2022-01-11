@@ -208,7 +208,7 @@
 
 @media (min-width: 772px) and (max-width: 1040px) {
   .checkout-details {
-    height: 70%;
+    height: 75%;
   }
   .first-product img,
   .second-product img {
@@ -226,7 +226,7 @@
   }
 }
 
-@media (min-width: 1040px) {
+@media (min-width: 1042px) {
   .checkout-details {
     width: 84%;
     height: 80%;
